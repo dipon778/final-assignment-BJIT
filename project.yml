@@ -1,5 +1,5 @@
 -
   name: Project
-  hosts: slavenode
+  hosts: slavenode-ec2
   roles:
     - projects
